@@ -57,8 +57,7 @@ This project uses the poses of the body , hand gestures and facial expression to
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* ROS melodic
-  ```sh
+```sh
 pip install mediapipe
   ```
 ```sh
