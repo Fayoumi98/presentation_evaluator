@@ -13,7 +13,7 @@ mp_holistic = mp.solutions.holistic
 cap = cv2.VideoCapture(0)
 
 # classes of the data
-class_name = "Happy"
+class_name = "nervous"
 
 
 # Initiate holistic model
