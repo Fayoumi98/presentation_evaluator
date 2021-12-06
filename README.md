@@ -43,7 +43,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About AAM-Driverless
+## About The Project
 
 This project uses the poses of the body , hand gestures and facial expression to classify your state and mistakes based on the body language. Finaly it gives you a final score on presentation. 
 
